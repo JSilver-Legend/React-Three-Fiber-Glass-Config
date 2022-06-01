@@ -1,0 +1,41 @@
+@import '../scss-variables';
+
+.sideOption {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+    .sideOption__title {
+        font-size: 9px;
+        color: #8B8B8B;
+    }
+    .sideOption__selected {
+        font-size: 12px;
+        color: $font_color;
+    }
+    .sideOption__wrapper {
+        margin-top: 10px;
+        position: relative;
+    }
+        .sideOption__choices {
+            position: absolute;
+            width: 100%;
+            background-color: $background_color;
+            padding: 5px;
+            box-sizing: border-box;
+            box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+        }
+            .sideOption__choice {
+                font-size: 12px;
+                padding-left: 5px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                &:hover {
+                    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+                };
+            }
+.hidden {
+    display: none;
+}

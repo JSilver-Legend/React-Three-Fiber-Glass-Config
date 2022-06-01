@@ -1,0 +1,35 @@
+.options {
+  margin: 0 10px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow-y: scroll;
+  background-color: #F2F2F2;
+  border-radius: 17px 17px 0 0;
+  height: 10%;
+}
+
+.options__title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  color: black;
+  white-space: nowrap;
+}
+
+.options__choices {
+  display: flex;
+  margin-top: 10px;
+}
+
+  .option {
+    margin-left: 1rem;
+    padding: 5px 1rem;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-size: 13px;
+    color: #555555;
+  }

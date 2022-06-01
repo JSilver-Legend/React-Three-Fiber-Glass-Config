@@ -1,0 +1,58 @@
+225,VSG 6-2 Klarfolie,,,"07,0",No,,"17,5",-,Yes,Inside/Outside
+226,VSG 8-2 Klarfolie,,,"09,0",No,,"22,5",-,Yes,Inside/Outside
+227,VSG 10-2 Klarfolie,,,"11,0",No,,"27,5",-,Yes,Inside/Outside
+228,VSG 12-2 Klarfolie,,,"13,0",No,,"32,5",-,Yes,Inside/Outside
+229,VSG 16-2 Klarfolie,,,"17,0",No,,"42,5",-,Yes,Inside/Outside
+230,VSG 20-2 Klarfolie,,,"21,0",No,,"52,5",-,Yes,Inside/Outside
+231,VSG 24-2 Klarfolie,,,"25,0",No,,"62,5",-,Yes,Inside/Outside
+232,VSG 6-2 Extraweiss Klarfolie,,,"07,0",Yes,,"17,5",-,Yes,Inside/Outside
+233,VSG 8-2 Extraweiss Klarfolie,,,"09,0",Yes,,"22,5",-,Yes,Inside/Outside
+234,VSG 10-2 Extraweiss Klarfolie,,,"11,0",Yes,,"27,5",-,Yes,Inside/Outside
+235,VSG 12-2 Extraweiss Klarfolie,,,"13,0",Yes,,"32,5",-,Yes,Inside/Outside
+236,VSG 16-2 Extraweiss Klarfolie,,,"17,0",Yes,,"42,5",-,Yes,Inside/Outside
+237,VSG 20-2 Extraweiss Klarfolie,,,"21,0",Yes,,"52,5",-,Yes,Inside/Outside
+238,VSG 24-2 Extraweiss Klarfolie,,,"25,0",Yes,,"62,5",-,Yes,Inside/Outside
+239,VSG 6-2 Mattfolie,,,"07,0",No,,"17,5",-,Yes,Inside/Outside
+240,VSG 8-2 Mattfolie,,,"09,0",No,,"22,5",-,Yes,Inside/Outside
+241,VSG 10-2 Mattfolie,,,"11,0",No,,"27,5",-,Yes,Inside/Outside
+242,VSG 12-2 Mattfolie,,,"13,0",No,,"32,5",-,Yes,Inside/Outside
+243,VSG 16-2 Mattfolie,,,"17,0",No,,"42,5",-,Yes,Inside/Outside
+244,VSG 20-2 Mattfolie,,,"21,0",No,,"52,5",-,Yes,Inside/Outside
+245,VSG 24-2 Mattfolie,,,"25,0",No,,"62,5",-,Yes,Inside/Outside
+246,VSG 6-2 Extraweiss Mattfolie,,,"07,0",Yes,,"17,5",-,Yes,Inside/Outside
+247,VSG 8-2 Extraweiss Mattfolie,,,"09,0",Yes,,"22,5",-,Yes,Inside/Outside
+248,VSG 10-2 Extraweiss Mattfolie,,,"11,0",Yes,,"27,5",-,Yes,Inside/Outside
+249,VSG 12-2 Extraweiss Mattfolie,,,"13,0",Yes,,"32,5",-,Yes,Inside/Outside
+250,VSG 16-2 Extraweiss Mattfolie,,,"17,0",Yes,,"42,5",-,Yes,Inside/Outside
+251,VSG 20-2 Extraweiss Mattfolie,,,"21,0",Yes,,"52,5",-,Yes,Inside/Outside
+252,VSG 24-2 Extraweiss Mattfolie,,,"25,0",Yes,,"62,5",-,Yes,Inside/Outside
+253,VSG 8-1P (Schallschutzfolie),,,"09,0",No,1,"22,5",-,Yes,Inside/Outside
+254,VSG P4A,,,"09,5",No,,"23,8",RC 2 (WK 2) / P4A,Yes,Inside/Outside
+255,VSG P5A,,,"13,0",No,,"32,5",RC 3 (WK 3) / P5A,Yes,Inside/Outside
+256,VSG P6B,,,"15,0",No,,"37,5",RC 4 (WK 4) / P6B,Yes,Inside/Outside
+257,VSG P7B,,,"25,0",No,,"62,5",RC 5 (WK 5) / P7B,Yes,Inside/Outside
+258,VSG P8B,,,"29,0",No,,"72,5",RC 6 (WK 6) / P8B,Yes,Inside/Outside
+201,ESG Float 4 mm,,,"04,0",No,,"10,0",-,No,Inside
+202,ESG Float 5 mm,,,"05,0",No,,"12,5",-,No,Inside
+203,ESG Float 6 mm,,,"06,0",No,,"15,0",-,No,Inside
+204,ESG Float 8 mm,,,"08,0",No,,"20,0",-,No,Inside
+205,ESG Float 10 mm,,,"10,0",No,,"25,0",-,No,Inside
+206,ESG Float 12 mm,,,"12,0",No,,"30,0",-,No,Inside
+207,ESG Extraweiss 4 mm,,,"04,0",Yes,,"10,0",-,No,Inside
+208,ESG Extraweiss 5 mm,,,"05,0",Yes,,"12,5",-,No,Inside
+209,ESG Extraweiss 6 mm,,,"06,0",Yes,,"15,0",-,No,Inside
+210,ESG Extraweiss 8 mm,,,"08,0",Yes,,"20,0",-,No,Inside
+211,ESG Extraweiss 10 mm,,,"10,0",Yes,,"25,0",-,No,Inside
+212,ESG Extraweiss 12 mm,,,"12,0",Yes,,"30,0",-,No,Inside
+213,ESG H Float 4 mm,,,"04,0",No,,"10,0",-,No,Inside
+214,ESG H Float 5 mm,,,"05,0",No,,"12,5",-,No,Inside
+215,ESG H Float 6 mm,,,"06,0",No,,"15,0",-,No,Inside
+216,ESG H Float 8 mm,,,"08,0",No,,"20,0",-,No,Inside
+217,ESG H Float 10 mm,,,"10,0",No,,"25,0",-,No,Inside
+218,ESG H Float 12 mm,,,"12,0",No,,"30,0",-,No,Inside
+219,ESG H Extraweiss 4 mm,,,"04,0",Yes,,"10,0",-,No,Inside
+220,ESG H Extraweiss 5 mm,,,"05,0",Yes,,"12,5",-,No,Inside
+221,ESG H Extraweiss 6 mm,,,"06,0",Yes,,"15,0",-,No,Inside
+222,ESG H Extraweiss 8 mm,,,"08,0",Yes,,"20,0",-,No,Inside
+223,ESG H Extraweiss 10 mm,,,"10,0",Yes,,"25,0",-,No,Inside
+224,ESG H Extraweiss 12 mm,,,"12,0",Yes,,"30,0",-,No,Inside

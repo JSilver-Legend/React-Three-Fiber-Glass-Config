@@ -1,0 +1,35 @@
+.selector {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.selector__text {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.selector__name {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  color: black;
+  white-space: nowrap;
+}
+
+.selector__selection {
+  text-transform: uppercase;
+  font-weight: thin;
+  font-size: 13px;
+  color: #555555;
+  white-space: nowrap;
+}
+
+.selector__icon {
+  width: 12px;
+  height: 12px;
+}
